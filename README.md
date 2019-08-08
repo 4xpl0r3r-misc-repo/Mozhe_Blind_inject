@@ -1,1 +1,1 @@
-"# Mozhe_Blind_inject" 
+# Mozhe_Blind_inject
