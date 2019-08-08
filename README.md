@@ -1,1 +1,3 @@
 # Mozhe_Blind_inject
+专用于墨者学院SQL Server的ASCII自动化测试工具
+依赖于Requests库
